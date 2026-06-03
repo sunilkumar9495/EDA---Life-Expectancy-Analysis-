@@ -150,5 +150,3 @@ The findings from this analysis can assist policymakers, healthcare organization
 ## Conclusion
 
 This project demonstrates how Exploratory Data Analysis can be used to uncover meaningful insights from healthcare data. The analysis highlights the importance of education, healthcare investment, immunization programs, and economic development in improving life expectancy while emphasizing the negative impact of mortality and disease prevalence on population health.
-
-This README is strong enough for a GitHub portfolio and will look professional to recruiters reviewing your Data Analyst/Data Science projects.
