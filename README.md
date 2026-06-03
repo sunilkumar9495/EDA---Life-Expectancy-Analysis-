@@ -1,6 +1,4 @@
- # EDA---Life-Expectancy-Analysis-
-Here's a detailed **GitHub README description** you can use for your **Life Expectancy Analysis (WHO Dataset)** project.
-
+# EDA---Life-Expectancy-Analysis-
 # Life Expectancy Analysis Using WHO Dataset
 
 ## Project Overview
